@@ -163,7 +163,7 @@ body{
 
 
 .container{
-  background-image: url('build.jpeg');
+  background-image: url('images/build.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -289,7 +289,7 @@ body{
 }
 
 .newcontainer2{
-  background-image: url(engineeratwork.jpeg);
+  background-image: url(images/engineeratwork.jpeg);
   box-shadow:inset 0 0 0 2000px rgba(33, 48, 88, 0.863);
   width: 80%;
   text-align: center;
@@ -386,7 +386,7 @@ body{
   width: 50%;
   float: left;
   color: rgb(252, 246, 246);
-  background-image: url(newengineer.jpg);
+  background-image: url(images/newengineer.jpg);
   background-position: center;
   background-size:95% 450px ;
   height: 450px;
